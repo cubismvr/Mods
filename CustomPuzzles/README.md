@@ -1,6 +1,6 @@
 # Cubism Custom Puzzles
 
-As of version 1.1.0, you can now sideload custom puzzles onto [Cubism](https://www.oculus.com/experiences/quest/2264524423619421/?locale=en_US). 
+As of version 1.1.0, you can now sideload custom puzzles into [Cubism](https://www.oculus.com/experiences/quest/2264524423619421/?locale=en_US). 
 
 Puzzles are described by a `.cube` file (JSON with a fancy file type). These can be placed in a specific folder on your Quest/Computer, after which they will show up in a new 'Custom Puzzles' menu item in the game.
 
