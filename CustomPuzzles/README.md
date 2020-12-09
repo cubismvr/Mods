@@ -14,7 +14,7 @@ This repo contains some examples of `.cube` files, descriptions of how the `.cub
 
 ## Sideloading custom puzzles on Quest
 
-1. Download some `.cube` files on your computer from a trusted source. You can download [some example puzzles here]().
+1. Download some `.cube` files on your computer from a trusted source. You can download [some example puzzles here](https://github.com/cubismvr/CubismMods/releases/tag/v1.1.0).
 2. Connect your Quest to your computer and [open up SideQuest](https://sidequestvr.com/)
 3. Open the File Explorer in the top right
 
@@ -29,9 +29,15 @@ This repo contains some examples of `.cube` files, descriptions of how the `.cub
 
 ![](https://raw.githubusercontent.com/helemaalbigt/CubismMods/master/CustomPuzzles/Images/CustomPuzzles1.jpg)
 
+
 ## Adding custom puzzles on PC
 
-WIP
+1. Download some `.cube` files on your computer from a trusted source. You can download [some example puzzles here]().
+2. Navigate to this folder on your PC: `C:\Users\[yourPcName]\Documents\Cubism\CustomPuzzles`. If you don't see a `CustomPuzzles` folder, make sure you've updated Cubism to version 1.1.0 or later, and have opened the game at least once since updating.
+
+![](https://raw.githubusercontent.com/helemaalbigt/CubismMods/master/CustomPuzzles/Images/CustomFolderPC1.jpg)
+
+3. When you launch the game, you should now see a new "Custom Puzzles" menu item in the main menu, with your downloaded custom puzzles within.
 
 
 ## Creating your own puzzles
