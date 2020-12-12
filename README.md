@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/cubismvr/Mods/main/Images/LogoMods.png)
+![](https://raw.githubusercontent.com/cubismvr/Mods/main/Images/Logo.png)
 
 
 
