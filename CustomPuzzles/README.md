@@ -8,7 +8,7 @@ Puzzles are described by a `.cube` file (JSON with a fancy file type). These can
 
 ![](https://github.com/cubismvr/mods/blob/main/Images/CustomPuzzles2.jpg)
 
-- [Puzzle examples & downloads](#puzzle-examples-and-downloads) 
+- [Puzzle examples and downloads](#puzzle-examples-and-downloads) 
 - [Sideloading puzzles to Quest](#sideloading-custom-puzzles-on-quest)  
 - [Adding puzzles on PC](#adding-custom-puzzles-on-pc)  
  
