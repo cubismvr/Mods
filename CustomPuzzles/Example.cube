@@ -1,5 +1,17 @@
 // CUBISM EXAMPLE PUZZLE FILE - Format v1
+// --------------------------------------
 //
+// INFO
+// ----
+// 
+// 
+// INSTALLATION
+// ------------
+// Go to github.com/cubismvr/mods for more info on how to sideload puzzles like this
+//
+//
+// ABOUT THE FILEFORMAT
+// --------------------
 // Puzzles in Cubism are described by a JSON file with a .cube file extension. The file has 3 main nodes:
 // 1. meta: metadata describing the puzzle.
 // 2. grid: coordinates of the puzzle's grid cells.
@@ -10,6 +22,7 @@
 // 2. File must have a meta, grid, and pieces node defined.
 // 3. The origin for the puzzle's grid cells must be placed in the lower corner of the puzzle's bounding box. If not, the puzzle will appear off-centered, both when it spawns, and in the menu.
 // 4. Pieces need to be defined in their solved position. This will be used to render the solved state in the menu button after the puzzle was solved. 
+// 
 
 {
   "meta": {
