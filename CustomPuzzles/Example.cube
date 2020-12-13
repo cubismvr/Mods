@@ -21,7 +21,7 @@
 // 1. File must be valid JSON, use the .cube file extension, and be placed in the correct folder.
 // 2. File must have a meta, grid, and pieces node defined. Meta must have name, id, difficulty, and puzzleFormatVersion declared. 
 // 3. The origin for the puzzle's grid cells must be placed in the lower corner of the puzzle's bounding box. If not, the puzzle will appear off-centered, both when it spawns, and in the menu.
-// 4. Pieces need to be defined in their solved position. This will be used to render the solved state in the menu button after the puzzle was solved. 
+// 4. Pieces need to be defined in their solved position. This will be used to render the solved state in the menu button after the puzzle has been solved. 
 
 {
   "meta": {
