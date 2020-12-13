@@ -6,9 +6,9 @@ Puzzles are described by a `.cube` file (JSON with a fancy file type). These can
 
 This repo contains some examples of `.cube` files, descriptions of how the `.cube` file is organized and instructions on how to sideload them. 
 
-[Sideloading puzzles to Quest](#sideloading-custom-puzzles-on-quest)  
-[Adding puzzles on PC](#adding-custom-puzzles-on-pc)  
-[Creating your own puzzles](#creating-your-own-puzzles)  
+- [Sideloading puzzles to Quest](#sideloading-custom-puzzles-on-quest)  
+- [Adding puzzles on PC](#adding-custom-puzzles-on-pc)  
+- [Creating your own puzzles](#creating-your-own-puzzles)  
 
 
 
