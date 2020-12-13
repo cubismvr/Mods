@@ -5,6 +5,8 @@
 As of version 1.1.0, you can modify Cubism's color theme by dropping a Cubism theme file (`.ctf`) in a specific folder on your Quest/Computer, letting you modify the appearance of the game's environment, puzzle grid and menu.
 This can be particularly usefull if you're making mixed reality content of the game and want to tweak the look of certain elements for better results or to aid in compositing.
 
+The theming system is still very experimental, and is likely to change in future updates. If you have any feedback, or would like to share your own themes with me, you can reach me at thomas@cubism-vr.com.
+
 - [Custom theme example](#Custom-theme-example)
 - [Sideloading a custom theme on Quest](#Sideloading-a-custom-theme-on-Quest)
 - [Adding a custom theme on PC](#Adding-a-custom-theme-on-PC)
