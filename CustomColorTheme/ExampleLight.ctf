@@ -4,7 +4,7 @@
 // INFO
 // ----
 // This example demonstrates Cubism's theme file format (.ctf), which lets you modify the appearance aspects of the game's environment, puzzle grid and menu.
-// This theme mirrors the properties of the defualt 'light' theme of the game.
+// This theme mirrors the properties of the default 'light' theme of the game on Oculus Quest. (values on PC differ)
 // 
 // INSTALLATION
 // ------------
