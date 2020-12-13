@@ -8,12 +8,12 @@ Puzzles are described by a `.cube` file (JSON with a fancy file type). These can
 
 ![](https://github.com/cubismvr/mods/blob/main/Images/CustomPuzzles2.jpg)
 
-- [Puzzle examples & downloads](#puzzle-examples-&-downloads) 
+- [Puzzle examples & downloads](#puzzle-examples-and-downloads) 
 - [Sideloading puzzles to Quest](#sideloading-custom-puzzles-on-quest)  
 - [Adding puzzles on PC](#adding-custom-puzzles-on-pc)  
  
 
-## Puzzle examples & downloads
+## Puzzle examples and downloads
 
 This repo contains [a simple example puzzle](https://sidequestvr.com/) with comments to explain how the `.cube` format works. You can use this file as a template to start making your own puzzles.
 
