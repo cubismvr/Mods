@@ -38,7 +38,7 @@ There's also [a small puzzle pack you can download in releases](https://github.c
 ## Adding custom puzzles on PC
 
 1. Download some `.cube` files on your computer from a trusted source. You can download [some example puzzles here]().
-2. Navigate to this folder on your PC: `C:\Users\[yourPcName]\Documents\Cubism\CustomPuzzles`. If you don't see a `CustomPuzzles` folder, make sure you've updated Cubism to version 1.1.0 or later, and have opened the game at least once since updating.
+2. Copy the puzzle files to this folder on your PC: `C:\Users\[yourPcName]\Documents\Cubism\CustomPuzzles`. If you don't see a `CustomPuzzles` folder, make sure you've updated Cubism to version 1.1.0 or later, and have opened the game at least once since updating.
 
 ![](https://github.com/cubismvr/mods/blob/main/Images/CustomFolderPC1.jpg)
 
