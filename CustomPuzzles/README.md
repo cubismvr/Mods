@@ -9,7 +9,7 @@ Puzzles are described by a `.cube` file (JSON with a fancy file type). These can
 If you have any feedback, or would like to share your custom puzzles with me, you can reach me at thomas@cubism-vr.com.
 
 - [Puzzle examples and downloads](#puzzle-examples-and-downloads) 
-- [Sideloading puzzles to Quest](#sideloading-custom-puzzles-on-quest)  
+- [Sideloading puzzles on Quest](#sideloading-custom-puzzles-on-quest)  
 - [Adding puzzles on PC](#adding-custom-puzzles-on-pc)  
 
 ![](https://github.com/cubismvr/mods/blob/main/Images/CustomPuzzles2.jpg) 
