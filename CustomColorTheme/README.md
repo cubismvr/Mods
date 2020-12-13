@@ -40,4 +40,6 @@ There's also an example for a greenscreen theme. This turns the background green
 
 ## Removing a custom theme
 To remove a custom theme and go back to Cubism's default style, simple remove the `.ctf` file from the game's directory on your Quest or your computer.
+On Quest you can remove files by clicking the red X next to them. 
 
+![](https://github.com/cubismvr/mods/blob/main/Images/SideQuest4.png)
