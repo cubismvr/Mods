@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/cubismvr/Mods/main/Images/Logo.png)
+
 # Custom Themes
 
 As of version 1.1.0, you can modify Cubism's color theme by dropping a Cubism Theme File (`.ctf`) in a specific folder on your Quest/Computer. This will let you modify the appearance aspects of the game's environment, puzzle grid and menu. 
