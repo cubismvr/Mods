@@ -6,12 +6,11 @@ As of version 1.1.0, you can now sideload custom puzzles into [Cubism](https://w
 
 Puzzles are described by a `.cube` file (JSON with a fancy file type). These can be placed in a specific folder on your Quest/Computer, after which they will show up in a new 'Custom Puzzles' menu item in the game.
 
-![](https://github.com/cubismvr/mods/blob/main/Images/CustomPuzzles2.jpg)
-
 - [Puzzle examples and downloads](#puzzle-examples-and-downloads) 
 - [Sideloading puzzles to Quest](#sideloading-custom-puzzles-on-quest)  
 - [Adding puzzles on PC](#adding-custom-puzzles-on-pc)  
- 
+
+![](https://github.com/cubismvr/mods/blob/main/Images/CustomPuzzles2.jpg) 
 
 ## Puzzle examples and downloads
 
