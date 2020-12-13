@@ -10,14 +10,12 @@ As of version 1.1.0, you can modify Cubism's color theme by dropping a Cubism Th
 ## Custom theme example
 This repo contains [a theme file example](https://github.com/cubismvr/Mods/blob/main/CustomColorTheme/ExampleLight.ctf) with comments to explain how the `.ctf` format works. You can use this file as a template to make your own themes.
 
-There's also
-
 ## Sideloading a custom theme on Quest
-
+WIP
 
 ## Adding a custom theme on PC
-
+WIP
 
 ## Removing a custom theme
-
+WIP
 
