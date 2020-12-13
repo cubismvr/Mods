@@ -6,14 +6,13 @@ As of version 1.1.0, you can now sideload custom puzzles into [Cubism](https://w
 
 Puzzles are described by a `.cube` file (JSON with a fancy file type). These can be placed in a specific folder on your Quest/Computer, after which they will show up in a new 'Custom Puzzles' menu item in the game.
 
-![](https://github.com/cubismvr/mods/blob/main/Images/CustomPuzzles2.jpg)
-
-- [Puzzle examples & downloads](#puzzle-examples-&-downloads) 
+- [Puzzle examples and downloads](#puzzle-examples-and-downloads) 
 - [Sideloading puzzles to Quest](#sideloading-custom-puzzles-on-quest)  
 - [Adding puzzles on PC](#adding-custom-puzzles-on-pc)  
- 
 
-## Puzzle examples & downloads
+![](https://github.com/cubismvr/mods/blob/main/Images/CustomPuzzles2.jpg) 
+
+## Puzzle examples and downloads
 
 This repo contains [a simple example puzzle](https://sidequestvr.com/) with comments to explain how the `.cube` format works. You can use this file as a template to start making your own puzzles.
 
@@ -30,9 +29,9 @@ There's also [a small puzzle pack you can download in releases](https://github.c
 4. Navigate to the `sdcard/Android/data/com.tvb.cubism/files/CustomPuzzles`. If you don't see a `CustomPuzzles` folder, make sure you've updated Cubism to version 1.1.0 or later, and have opened the game at least once since updating.
 5. Press the plus button in the bottom right to add files to this folder. Select the `.cube` files from your filesystem and upload them here.
 
-![](https://github.com/cubismvr/mods/blob/main/CustomPuzzles/Images/SideQuest2.png)
+![](https://github.com/cubismvr/mods/blob/main/Images/SideQuest2.png)
 
-6. When you launch the game, you should now see a new "Custom Puzzles" menu item in the main menu, with your sideloaded puzzles within.
+6. When you launch the game, you should now see a new "Custom Puzzles" menu item in the main menu, with your sideloaded puzzles within. Note this menu item will not be visible if no puzzles have been sidloaded, and that puzzles which don't follow [the correct fileformat](https://github.com/cubismvr/Mods/blob/main/CustomPuzzles/Example.cube) won't show up either.
 
 ![](https://github.com/cubismvr/mods/blob/main/Images/CustomPuzzles1.jpg)
 
