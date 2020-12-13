@@ -16,7 +16,7 @@ If you have any feedback, or would like to share your custom puzzles with me, yo
 
 ## Puzzle examples and downloads
 
-This repo contains [a simple example puzzle](https://sidequestvr.com/) with comments to explain how the `.cube` format works. You can use this file as a template to start making your own puzzles.
+This repo contains [a simple example puzzle](https://github.com/cubismvr/Mods/blob/main/CustomPuzzles/Example.cube) with comments to explain how the `.cube` format works. You can use this file as a template to start making your own puzzles.
 
 There's also [a small puzzle pack you can download in releases](https://github.com/cubismvr/mods/releases/tag/v1.1.0) - containing a collection of puzzles that were cut from the main game. Follow the steps below to sideload them in the game.
 
