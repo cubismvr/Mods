@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/cubismvr/Mods/main/Images/Logo.png)
+
 # Custom Puzzles
 
 As of version 1.1.0, you can now sideload custom puzzles into [Cubism](https://www.oculus.com/experiences/quest/2264524423619421/?locale=en_US). 
