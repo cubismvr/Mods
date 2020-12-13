@@ -13,14 +13,14 @@ The theming system is still very experimental, and is likely to change in future
 - [Removing a custom theme](#Removing-a-custom-theme)
 
 ## Custom theme example
-This repo contains [a simple theme file example](https://github.com/cubismvr/Mods/blob/main/CustomColorTheme/ExampleLight.ctf) based on the Quest's default light theme. This example includes comments to explain how the `.ctf` format works. You can use this file as a template to make your own themes.
+This repo contains [a simple theme file example](https://github.com/cubismvr/Mods/blob/main/CustomTheme/ExampleLight.ctf) based on the Quest's default light theme. This example includes comments to explain how the `.ctf` format works. You can use this file as a template to make your own themes.
 
 There's also an example for [a greenscreen theme](https://github.com/cubismvr/Mods/blob/main/CustomTheme/GreenScreen.ctf). This turns the background green, which could be usefull to composit faux-AR mixed reality footage.
 
 ![](https://github.com/cubismvr/Mods/blob/main/Images/GreenScreenThumb.jpg)
 
 ## Sideloading a custom theme on Quest
-1. Download a `.ctf` file on your computer from a trusted source, or make your own using [the example in this repo.](https://github.com/cubismvr/Mods/blob/main/CustomColorTheme/ExampleLight.ctf)
+1. Download a `.ctf` file on your computer from a trusted source, or make your own using [the example in this repo.](https://github.com/cubismvr/Mods/blob/main/CustomTheme/ExampleLight.ctf)
 2. Connect your Quest to your computer and [open up SideQuest](https://sidequestvr.com/)
 3. Open the File Explorer in the top right
 
