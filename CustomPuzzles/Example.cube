@@ -10,7 +10,6 @@
 // ------------
 // Go to github.com/cubismvr/mods for more info on how to sideload puzzles like this
 //
-//
 // ABOUT THE FILEFORMAT
 // --------------------
 // Puzzles in Cubism are described by a JSON file with a .cube file extension. The file has 3 main nodes:
