@@ -11,7 +11,7 @@ This can be particularly usefull if you're making mixed reality content of the g
 - [Removing a custom theme](#Removing-a-custom-theme)
 
 ## Custom theme example
-This repo contains [a theme file example](https://github.com/cubismvr/Mods/blob/main/CustomColorTheme/ExampleLight.ctf) with comments to explain how the `.ctf` format works. You can use this file as a template to make your own themes.
+This repo contains [a simple theme file example](https://github.com/cubismvr/Mods/blob/main/CustomColorTheme/ExampleLight.ctf) based on the Quest's default light theme. This example includes comments to explain how the `.ctf` format works. You can use this file as a template to make your own themes.
 
 There's also an example for [a greenscreen theme](https://github.com/cubismvr/Mods/blob/main/CustomTheme/GreenScreen.ctf). This turns the background green, which could be usefull to composit faux-AR mixed reality footage.
 
