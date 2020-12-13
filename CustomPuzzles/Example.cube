@@ -3,7 +3,7 @@
 //
 // INFO
 // ----
-// This example demonstrates Cubism's puzzle fileformat. This format may change in future versions of the game.
+// This example demonstrates Cubism's puzzle fileformat. This format may change with future versions of the game.
 // For more example puzzles, go to github.com/cubismvr/mods/releases 
 // 
 // INSTALLATION
@@ -15,23 +15,22 @@
 // Puzzles in Cubism are described by a JSON file with a .cube file extension. The file has 3 main nodes:
 // 1. meta: metadata describing the puzzle.
 // 2. grid: coordinates of the puzzle's grid cells.
-// 3. pieces: puzzle pieces, described by their color and the pieces segments. Uses same coordinate system as the grid.
+// 3. pieces: puzzle pieces, described by their color and cubes that make up their shape (segments). Uses same coordinate system as the grid.
 //
-// The following conditions need to be met for a puzzle to show up correctly within Cubism:
+// The following conditions need to be met for a puzzle to show up correctly within Cubism. If there's an error in parsing a puzzle, it will be ignored and not show up in-game.
 // 1. File must be valid JSON, use the .cube file extension, and be placed in the correct folder.
-// 2. File must have a meta, grid, and pieces node defined.
+// 2. File must have a meta, grid, and pieces node defined. Meta must have name, id, difficulty, and puzzleFormatVersion and created declared. 
 // 3. The origin for the puzzle's grid cells must be placed in the lower corner of the puzzle's bounding box. If not, the puzzle will appear off-centered, both when it spawns, and in the menu.
 // 4. Pieces need to be defined in their solved position. This will be used to render the solved state in the menu button after the puzzle was solved. 
-// 
 
 {
   "meta": {
     "name": "Example",                  //Name that shows up when hovering over the puzzle in the menu.
-    "id": "08H8SVX1P3YDD7GL",           //Unique ID to help avoid name clashes when parsing puzzles and saving progress. Will be automatically assigned in the future.
-    "difficulty": "easy",               //Difficulty that shows up when hovering over the puzzle in the menu.
+    "id": "08H8SVX1P3YDD7GL",           //Unique ID to help avoid name clashes when parsing puzzles and saving progress. Will be automatically assigned once there is an in-game level editor.
+    "difficulty": "easy",               //Difficulty that shows up when hovering over the puzzle in the menu. Possible values: easy, normal, hard, expert, master
     "puzzleFormatVersion": 1,           //If this fileformat changes as the game evolves, this version number will increase to indicate how the game should try and parse hte puzzle.
     "angle": 0,                         //Puzzle will be rotated by this angle when spawned. Value should be a multiple of 90. Can be used to change which side of the puzzle faces the player. 
-    "created": "2020-12-12 10:46 AM",   //Puzzles are ordered from new to old in the menu, based on this date
+    "created": "2020-12-12 10:46 AM",   //Puzzles are ordered from new to old in the menu, based on this date. 
     "author": "Vanbo",                  //Author name will show up when hovering over the puzzle in the menu.
   },
   "grid": [
@@ -80,7 +79,7 @@
   ],
   "pieces": [
     {
-      "color": "E39CAC",
+      "color": "E39CAC",    //HEX color
       "segments": [
         {
           "localPos": {
