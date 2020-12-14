@@ -33,7 +33,7 @@ There's also [a small puzzle pack you can download in releases](https://github.c
 
 ![](https://github.com/cubismvr/mods/blob/main/Images/SideQuest2.png)
 
-6. When you launch the game, you should now see a new "Custom Puzzles" menu item in the main menu, with your sideloaded puzzles within. Note this menu item will not be visible if no puzzles have been sidloaded, and that puzzles which don't follow [the correct fileformat](https://github.com/cubismvr/Mods/blob/main/CustomPuzzles/Example.cube) won't show up either.
+6. When you launch the game, you should now see a new "Custom Puzzles" menu item in the main menu, with your sideloaded puzzles within. Note this menu item will not be visible if no puzzles have been sideloaded, and that puzzles which don't follow [the correct fileformat](https://github.com/cubismvr/Mods/blob/main/CustomPuzzles/Example.cube) won't show up either.
 
 ![](https://github.com/cubismvr/mods/blob/main/Images/CustomPuzzles1.jpg)
 
