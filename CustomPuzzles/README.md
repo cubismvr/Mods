@@ -16,9 +16,11 @@ If you have any feedback or would like to share your custom puzzles with me, you
 
 ## Puzzle examples and downloads
 
-This repo contains [a simple example puzzle](https://github.com/cubismvr/Mods/blob/main/CustomPuzzles/Example.cube) with comments to explain how the `.cube` format works. You can use this file as a template to start making your own puzzles.
+#### Example Puzzle - ([view here](https://github.com/cubismvr/Mods/blob/main/CustomPuzzles/Example.cube))
+This is simple example puzzle with comments to help explain how the `.cube` format works. You can use this file as a template to start making your own puzzles.
 
-There's also [a small puzzle pack you can download in releases](https://github.com/cubismvr/mods/releases/tag/v1.1.0) - containing a collection of puzzles that were cut from the main game. Follow the steps below to sideload them in the game.
+#### B-Sides Puzzlepack - ([download here](https://github.com/cubismvr/mods/releases/tag/v1.1.0))
+This is a small unofficial puzzlepack containing a collection of puzzles that were cut from the main game. Follow the steps below to sideload them in the game.
 
 ## Sideloading custom puzzles on Quest
 
