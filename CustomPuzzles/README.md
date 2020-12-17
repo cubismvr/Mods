@@ -6,6 +6,8 @@ As of version 1.1.0, you can now sideload custom puzzles into [Cubism](https://w
 
 Puzzles are described by a `.cube` file (JSON with a fancy file type). These can be placed in a specific folder on your Quest/Computer, after which they will show up in a new 'Custom Puzzles' menu item in the game.
 
+The long term goal is to add a proper in-VR level editor to the game to generate these files, but by enabeling puzzle sideloading and publishing the puzzle file format, my hope is to already take a first small step towards enabeling player created puzzles.
+
 If you have any feedback or would like to share your custom puzzles with me, you can reach me at thomas@cubism-vr.com.
 
 - [Puzzle examples and downloads](#puzzle-examples-and-downloads) 
