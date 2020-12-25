@@ -21,12 +21,12 @@ If you have any feedback or would like to share your custom puzzles with me, you
 #### Example Puzzle - ([view here](https://github.com/cubismvr/Mods/blob/main/CustomPuzzles/Example.cube))
 This is simple example puzzle with comments to help explain how the `.cube` format works. You can use this file as a template to start making your own puzzles.
 
-#### B-Sides Puzzlepack - ([download here](https://github.com/cubismvr/mods/releases/tag/v1.1.0))
+#### B-Sides Puzzlepack - ([download here](https://github.com/cubismvr/mods/releases/tag/B-Sides))
 This is a small unofficial puzzlepack containing a collection of puzzles that were cut from the main game. Follow the steps below to sideload them in the game.
 
 ## Sideloading custom puzzles on Quest
 
-1. Download some `.cube` files on your computer from a trusted source. You can download [some example puzzles here](https://github.com/cubismvr/mods/releases/tag/v1.1.0).
+1. Download some `.cube` files on your computer from a trusted source. You can download [some example puzzles here](https://github.com/cubismvr/mods/releases/tag/B-Sides).
 2. Connect your Quest to your computer and [open up SideQuest](https://sidequestvr.com/)
 3. Open the File Explorer in the top right
 
@@ -43,7 +43,7 @@ This is a small unofficial puzzlepack containing a collection of puzzles that we
 
 ## Adding custom puzzles on PC
 
-1. Download some `.cube` files on your computer from a trusted source. You can download [some example puzzles here]().
+1. Download some `.cube` files on your computer from a trusted source. You can download [some example puzzles here](https://github.com/cubismvr/mods/releases/tag/B-Sides).
 2. Copy the puzzle files to this folder on your PC: `C:\Users\[yourPcName]\Documents\Cubism\CustomPuzzles`. If you don't see a `CustomPuzzles` folder, make sure you've updated Cubism to version 1.1.0 or later, and have opened the game at least once since updating.
 
 ![](https://github.com/cubismvr/mods/blob/main/Images/CustomFolderPC1.jpg)
