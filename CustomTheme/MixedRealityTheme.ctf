@@ -1,25 +1,3 @@
-// CUBISM THEME FILE EXAMPLE - Format v1
-// --------------------------------------
-//
-// INFO
-// ----
-// This example demonstrates Cubism's theme file format (.ctf), which lets you modify the appearance aspects of the game's environment, puzzle grid and menu.
-// This theme mirrors the properties of the default 'light' theme of the game on Oculus Quest. (values on PC differ)
-// 
-// INSTALLATION
-// ------------
-// Go to github.com/cubismvr/mods for more info on how to sideload custom themes like this.
-//
-// ABOUT THE FILEFORMAT
-// --------------------
-// The meta tag contains info about the theme, which for now is just the parser version number.
-// If this fileformat changes as the game evolves, this version number will increase to indicate how the game should try and parse the theme.
-//
-// The other tags describe theme attributes that can be changes in various aspects of the game (environment, player, puzzle, UI). 
-// Colors are defined in 32 bit format with color component values ranging from 0 to 255. 
-// If a color in this theme is described by RGBA value, then that element allows for transparency. If it's described by RGB value it will always render opaque.
-//
-
 {
   "meta": {
     "themeParserVersion": 1,       
