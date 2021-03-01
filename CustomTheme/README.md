@@ -45,7 +45,6 @@ To achieve a similar effect, follow these steps:
 2. Install the Reality Mixer app on your iOS device, and follow [these instructions](https://github.com/fabio914/RealityMixer/blob/main/Instructions.md) to calibrate your device for mixed reality.
 3. Launch Cubism. If the custom theme was sideloaded correctly, the game will look like this:
 ![](https://raw.githubusercontent.com/cubismvr/Mods/main/Images/ARTheme.jpg)
-
 4. In the Reality Mixer app, go to "Start Mixed Reality", and before connecting, set the "Background visibility" setting to "Filtered", and the "Color to alpha" setting to "Black".
 5. Once you connect, the Reality Mixer app footage should now look like AR footage.
 
