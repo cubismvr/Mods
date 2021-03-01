@@ -35,6 +35,7 @@ This repo contains [a simple theme file example](https://github.com/cubismvr/Mod
 
 ## Using custom themes on Quest for faux-AR mixed reality using Reality Mixer
 If you have an iPhone or iPad, you can use Fabio Dela Antonio's app [Reality Mixer app](https://apps.apple.com/us/app/reality-mixer/id1539307552) in combination with a custom theme to make mixed reality footage that looks like AR. Here are some examples:
+![](https://raw.githubusercontent.com/cubismvr/Mods/main/Images/MR.png)
 https://twitter.com/fabio914/status/1341910507327008768?s=20
 https://twitter.com/tovanbo/status/1366002113323667465?s=20
 
