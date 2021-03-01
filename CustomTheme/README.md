@@ -15,10 +15,6 @@ The theming system is still very experimental, and is likely to change in future
 ## Custom theme example
 This repo contains [a simple theme file example](https://github.com/cubismvr/Mods/blob/main/CustomTheme/ExampleLight.ctf) based on the Quest's default light theme. This example includes comments to explain how the `.ctf` format works. You can use this file as a template to make your own themes.
 
-There's also an example for [a greenscreen theme](https://github.com/cubismvr/Mods/blob/main/CustomTheme/GreenScreen.ctf). This turns the background green, which could be usefull to composit faux-AR mixed reality footage.
-
-![](https://github.com/cubismvr/Mods/blob/main/Images/GreenScreenThumb.jpg)
-
 ## Sideloading a custom theme on Quest
 1. Download a `.ctf` file on your computer from a trusted source, or make your own using [the example in this repo.](https://github.com/cubismvr/Mods/blob/main/CustomTheme/ExampleLight.ctf)
 2. Connect your Quest to your computer and [open up SideQuest](https://sidequestvr.com/)
@@ -34,6 +30,21 @@ There's also an example for [a greenscreen theme](https://github.com/cubismvr/Mo
 6. When you launch Cubism, the theme file should now be applied. In the settings menu, you should now see that the dark mode option is crossed out, with a message explaining which theme file is overriding.
 
 ![](https://github.com/cubismvr/mods/blob/main/Images/CtfMenu.jpg)
+
+
+## Using custom themes on Quest for faux-AR mixed reality using Reality Mixer
+If you have an iPhone or iPad, you can use Fabio Dela Antonio's app [Reality Mixer app](https://apps.apple.com/us/app/reality-mixer/id1539307552) in combination with a custom theme to make mixed reality footage that looks like AR. Here are some examples:
+https://twitter.com/fabio914/status/1341910507327008768?s=20
+https://twitter.com/tovanbo/status/1366002113323667465?s=20
+
+To achieve a similar effect, follow these steps:
+
+1. Download and sideload this [mixed reality theme](https://github.com/cubismvr/Mods/blob/main/CustomTheme/MixedRealityTheme.ctf) on your Quest following the instructions above.
+2. Install the Reality Mixer app on your iOS device, and follow [these instructions](https://github.com/fabio914/RealityMixer/blob/main/Instructions.md) to calibrate your device for mixed reality.
+3. Launch Cubism. If the custom theme was sideloaded correctly, the game will look like this:
+![](https://raw.githubusercontent.com/cubismvr/Mods/main/Images/ARTheme.jpg)
+4. In the Reality Mixer app, go to "Start Mixed Reality", and before connecting, set the "Background visibility" setting to "Filtered", and the "Color to alpha" setting to "Black".
+5. Once you connect, the Reality Mixer app footage should now look like AR footage.
 
 ## Adding a custom theme on PC
 1. Download a `.ctf` file on your computer from a trusted source, or make your own using [the example in this repo.](https://github.com/cubismvr/Mods/blob/main/CustomColorTheme/ExampleLight.ctf)
