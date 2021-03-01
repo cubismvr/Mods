@@ -9,6 +9,7 @@ The theming system is still very experimental, and is likely to change in future
 
 - [Custom theme example](#Custom-theme-example)
 - [Sideloading a custom theme on Quest](#Sideloading-a-custom-theme-on-Quest)
+- [Using custom themes on Quest for faux-AR mixed reality using Reality Mixer](#Using-custom-themes-on-Quest-for-faux-AR-mixed-reality-using-Reality-Mixer)
 - [Adding a custom theme on PC](#Adding-a-custom-theme-on-PC)
 - [Removing a custom theme](#Removing-a-custom-theme)
 
