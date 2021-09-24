@@ -13,6 +13,7 @@ If you have any feedback or would like to share your custom puzzles with me, you
 - [Puzzle examples and downloads](#puzzle-examples-and-downloads) 
 - [Sideloading puzzles on Quest](#sideloading-custom-puzzles-on-quest)  
 - [Adding puzzles on PC](#adding-custom-puzzles-on-pc)  
+- [Community Level Editors](#community-level-editors)
 
 ![](https://github.com/cubismvr/mods/blob/main/Images/CustomPuzzles2.jpg) 
 
@@ -49,3 +50,9 @@ This is a small unofficial puzzlepack containing a collection of puzzles that we
 ![](https://github.com/cubismvr/mods/blob/main/Images/CustomFolderPC1.jpg)
 
 3. When you launch the game, you should now see a new "Custom Puzzles" menu item in the main menu, with your downloaded custom puzzles within.
+
+## Community level editors
+
+Some members of the Cubism community have made their own level editors to help create custom levels for Cubism!
+- [Cubism Level Editor](https://github.com/DevPika/cubismvr-level-editor) by [DevPika](https://github.com/DevPika)
+- [Cubism Web Level Editor](https://shiva-kannan.github.io/CubismWebLevelEditor/Build/index.html) by [Shiva Kannan](https://twitter.com/ShivaKannan7)
