@@ -10,6 +10,6 @@ This repo contains examples and instructions on how to mod different aspects of 
 <br>
 
 _special thanks:_<br>
-_-Karl @ 'Say what...' Magazine for feedback on the puzzle file format_<br>
 _-Fabio dela Antonio for feedback on the theme file format_<br>
-_-Dev Pika & Shiva Kannan for their work on their puzzle editors_
+_-Dev Pika & Shiva Kannan for their work on their puzzle editors_<br>
+_-Karl @ 'Say what...' Magazine for feedback on the puzzle file format_
