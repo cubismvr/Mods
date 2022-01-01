@@ -5,3 +5,11 @@ This repo contains examples and instructions on how to mod different aspects of 
 * [Adding custom puzzles](https://github.com/cubismvr/mods/blob/main/CustomPuzzles)
 * [Adding custom themes](https://github.com/cubismvr/mods/blob/main/CustomTheme)
 
+<br>
+<br>
+<br>
+
+_special thanks:_<br>
+_-Karl @ 'Say what...' Magazine for feedback on the puzzle file format_<br>
+_-Fabio dela Antonio for feedback on the theme file format_<br>
+_-Dev Pika & Shiva Kannan for their work on their puzzle editors_
