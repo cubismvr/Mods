@@ -1,4 +1,4 @@
-// CUBISM EXAMPLE PUZZLE FILE - Format v1 (works in Cubism v.1.1.0 or newer)
+// CUBISM EXAMPLE PUZZLE FILE - Format v2 (works in Cubism v.1.5.0 or newer)
 // --------------------------------------
 //
 // INFO
@@ -28,106 +28,35 @@
     "name": "Example",                  //Name that shows up when hovering over the puzzle in the menu.
     "id": "08H8SVX1P3YDD7GL",           //Unique ID to help avoid name clashes when parsing puzzles and saving progress. Will be automatically assigned once there is an in-game level editor.
     "difficulty": "easy",               //Difficulty that shows up when hovering over the puzzle in the menu. Possible values: easy, normal, hard, expert, master
-    "puzzleFormatVersion": 1,           //If this fileformat changes as the game evolves, this version number will increase to indicate how the game should try and parse hte puzzle.
+    "puzzleFormatVersion": 2,           //This version number indicates how the game should try and parse the puzzle. This will be increased if any major breaking changes are ever introduced in this format.
     "angle": 0,                         //Puzzle will be rotated by this angle when spawned. Value should be a multiple of 90. Can be used to change which side of the puzzle faces the player. 
-    "created": "2020-12-12 10:46 AM",   //Puzzles are ordered from new to old in the menu, based on this date. 
+    "created": "2021-12-27 10:00 AM",   //Puzzles are ordered from new to old in the menu, based on this date. 
     "author": "Vanbo",                  //Author name will show up when hovering over the puzzle in the menu.
+    "miniatureType": 1                  //How the puzzle miniature is rendered. Values: [0] regular miniature similar to the Vol. 1 puzzles. [1] generate white outlines between pieces similar to Vol. 2 puzzles
   },
-  "grid": [
-     {
-      "localPos": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    },
-    {
-      "localPos": {
-        "x": 0,
-        "y": 1,
-        "z": 0
-      }
-    },
-    {
-      "localPos": {
-        "x": 0,
-        "y": 2,
-        "z": 0
-      }
-    },
-    {
-      "localPos": {
-        "x": 1,
-        "y": 0,
-        "z": 0
-      }
-    },
-    {
-      "localPos": {
-        "x": 1,
-        "y": 1,
-        "z": 0
-      }
-    },
-    {
-      "localPos": {
-        "x": 1,
-        "y": 2,
-        "z": 0
-      }
-    }
+  "grid": [ //list of grid coordinates. Origin of coordinate system must be in the lower corner of the puzzle's bounding box
+    [0,0,0],
+    [0,1,0],
+    [0,2,0],
+    [1,0,0],
+    [1,1,0],
+    [1,2,0]
   ],
-  "pieces": [
+  "pieces": [ //list of puzzle pieces, each defined by their color and their cubes (segments)
     {
       "color": "E39CAC",    //HEX color
-      "segments": [
-        {
-          "localPos": {
-            "x": 0,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "localPos": {
-            "x": 1,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "localPos": {
-            "x": 0,
-            "y": 1,
-            "z": 0
-          }
-        }
+      "segments": [ //list of piece segments. Uses same coordinate system as the puzzle grid
+        [0,0,0],
+        [1,0,0],
+        [0,1,0]
       ]
     },
     {
       "color": "ACF495",
       "segments": [
-        {
-          "localPos": {
-            "x": 1,
-            "y": 1,
-            "z": 0
-          }
-        },
-        {
-          "localPos": {
-            "x": 1,
-            "y": 2,
-            "z": 0
-          }
-        },
-        {
-          "localPos": {
-            "x": 0,
-            "y": 2,
-            "z": 0
-          }
-        }
+        [1,1,0],
+        [1,2,0],
+        [0,2,0]
       ]
     }
   ]
