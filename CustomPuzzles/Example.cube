@@ -27,7 +27,6 @@
   "meta": {
     "name": "Example",                  //Name that shows up when hovering over the puzzle in the menu.
     "id": "08H8SVX1P3YDD7GL",           //Unique ID to help avoid name clashes when parsing puzzles and saving progress. Will be automatically assigned once there is an in-game level editor.
-    "difficulty": "easy",               //Difficulty that shows up when hovering over the puzzle in the menu. Possible values: easy, normal, hard, expert, master
     "puzzleFormatVersion": 2,           //This version number indicates how the game should try and parse the puzzle. This will be increased if any major breaking changes are ever introduced in this format.
     "angle": 0,                         //Puzzle will be rotated by this angle when spawned. Value should be a multiple of 90. Can be used to change which side of the puzzle faces the player. 
     "created": "2021-12-27 10:00 AM",   //Puzzles are ordered from new to old in the menu, based on this date. 
