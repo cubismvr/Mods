@@ -1,5 +1,7 @@
 ![](https://raw.githubusercontent.com/cubismvr/Mods/main/Images/Logo.png)
 
+NOTE: this guide requires you to enable dev mode on your quest. For a simpeler way of sideloading Puzzles that doesn't require this, check out [this tutorial instead](https://www.cubism-vr.com/editor/);
+
 # Custom Puzzles
 
 As of version 1.1.0, you can now sideload custom puzzles into [Cubism](https://www.oculus.com/experiences/quest/2264524423619421/?locale=en_US). 
