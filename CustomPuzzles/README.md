@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/cubismvr/Mods/main/Images/Logo.png)
 
-NOTE: this guide requires you to enable dev mode on your quest. 
+NOTE: this guide requires you to enable dev mode on your quest. \n
 For a simpeler way of sideloading Puzzles that doesn't require this, check out [this tutorial instead](https://www.cubism-vr.com/editor/);
 
 # Custom Puzzles
